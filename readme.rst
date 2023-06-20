@@ -28,14 +28,14 @@ Simpan File ini di htdoc, dan buat database dengan nama pustaka, Import file pus
 Controller
 *********
 
--  `Admin.php untuk mengelola halaman Dashboard`_
--  `Autentifikasi.php untuk login dan register`_
--  `Buku.php untuk mengelola CRUD Kategori dan Buku`_
+-  Admin.php untuk mengelola halaman Dashboard
+-  Autentifikasi.php untuk login dan register
+-  Buku.php untuk mengelola CRUD Kategori dan Buku
 
 *********
 Model
 *********
 
--  `ModelBuku.php untuk mengelola data buku dan kategori`_
--  `ModelUser.php untuk mengelola data user`_
+-  ModelBuku.php untuk mengelola data buku dan kategori
+-  ModelUser.php untuk mengelola data user
 
