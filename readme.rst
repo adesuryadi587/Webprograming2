@@ -1,5 +1,5 @@
 ###################
-Framework Codeigniter 3.11
+Pustaka Booking - Framework Codeigniter 3.11
 ###################
 
 Aplikasi Pustaka Booking adalah aplikasi berbasis Website yang digunakan untuk mengelola data buku, anggota, konten website sebuah perpustakaan. Versi Web Programing 2 hanya sampai pada CRUD data Buku.
